@@ -5,7 +5,7 @@
 The aim of this project is to predict the probability of death for patients entering an ICU (Intensive Care Unit). This analysis uses the MIMIC dataset available from [Medical Information Mart for Intensive Care](https://mimic.physionet.org/).
 
 ### Files
-- [KNN Implementation](link-to-knn-file)
+- [KNN Implementation](https://github.com/bcanalsimon/computational-machine-learning/blob/main/extended-project-1/extended-project-1-KNN.ipynb)
 - [SVM Implementation](link-to-svm-file)
 
 **Note**: The preprocessing of the data is the same for both the KNN and SVM implementations, with the difference that SVM handle class imbalance.
